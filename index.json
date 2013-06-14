@@ -1,0 +1,4 @@
+{ "harp-boilerplates/hb-minimal" : ["minimal"]
+, "harp-boilerplates/hb-blog" : ["blog", "clean", "minimal", "jade", "less"]
+, "harp-boilerplates/hb-docs" : ["docs", "clean", "minimal", "jade", "less"]
+}
