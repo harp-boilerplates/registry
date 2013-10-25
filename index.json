@@ -3,4 +3,5 @@
 , "harp-boilerplates/hb-docs" : ["docs", "clean", "minimal", "jade", "less"]
 , "kennethormandy/hb-remedy" : ["blog", "minimal", "jade", "photography", "less"]
 , "kennethormandy/hb-epub3" : ["epub", "ebook", "jade", "stylus"]
+, "kenhkan/hb-angular" : ["angular", "angularjs", "spa"]
 }
