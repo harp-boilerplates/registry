@@ -26,4 +26,5 @@
 , "zeke/harp-slideshow-template" : ["slides", "presentation", "jade", "stylus"]
 , "kennethormandy/hb-simurai" : ["blog", "portfolio", "clean", "ejs"]
 , "irgstudio/hbbp" : ["bootstrap", "jade", "ejs", "less"]
+, "jvandemo/hb-bootstrap": ["bootstrap", "jade", "less", "themes", "docs", "documentation", "responsive"]
 }
