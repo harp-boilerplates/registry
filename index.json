@@ -27,4 +27,5 @@
 , "kennethormandy/hb-simurai" : ["blog", "portfolio", "clean", "ejs"]
 , "irgstudio/hbbp" : ["bootstrap", "jade", "ejs", "less"]
 , "jvandemo/hb-bootstrap": ["bootstrap", "jade", "less", "themes", "docs", "documentation", "responsive"]
+, "edsadr/hb-default-ejs-less": ["minimal", "ejs", "less"]
 }
