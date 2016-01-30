@@ -28,4 +28,6 @@
 , "irgstudio/hbbp" : ["bootstrap", "jade", "ejs", "less"]
 , "jvandemo/hb-bootstrap": ["bootstrap", "jade", "less", "themes", "docs", "documentation", "responsive"]
 , "iammatthias/HB-Tufte": ["jade", "tuftecss", "css"]
+, "iammatthias/HB-MFboilerplate": ["ejs", "css"]
+, "iammatthias/Appetizer": ["ejs", "scss"]
 }
